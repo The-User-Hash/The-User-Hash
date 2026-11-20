@@ -40,6 +40,6 @@
 | **🚀 飞书** | `user_r9RoV9tcVB` | [点击添加联系人](https://www-user.feishu.cn/invitation/page/add_contact/?token=d55ia924-0e39-4f0d-afe1-a88cf702b7e1&unique_id=0cbaAiJaYWkGziEKAnzYMA==) |
 | **🔨 钉钉** | `iu9_40gasz7ly` | 扫码或搜索添加 |
 
-> **注**：微信、QQ、钉钉的二维码图片已附在仓库 `assets/contact/` 目录下，欢迎扫码交流。
+> **注**：微信、QQ、钉钉的二维码图片已附在仓库目录下，欢迎扫码交流。
 
 有技术问题或合作意向，欢迎提 Issue 和直接联系。
