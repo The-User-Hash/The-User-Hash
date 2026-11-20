@@ -27,10 +27,19 @@
 
 ## 联系我
 
-| 方式 | 说明 |
-|---|---|
-| 邮箱 | zengjia168_2026@outlook.com |
-| 备用邮箱 | zengjia168_2026@qq.com |
-| 微信 / QQ / 钉钉 | 二维码见 [联系我](联系我) 目录 |
+### 📬 联系与协作
+
+如果您对本提案感兴趣，或希望深入探讨技术细节，欢迎通过以下方式联系：
+
+| 渠道 | 账号 / ID | 链接 / 备注 |
+| :--- | :--- | :--- |
+| **📧 邮箱** | `zengjia168_2026@qq.com`/2929828762@qq.com | **首选** (国内响应最快) |
+| **📧 备用邮箱** | `zengjia168_2026@outlook.com` | 国际通用 |
+| **💬 微信** | `xiangrikuizengjia` | 扫码或搜索添加 |
+| **🐧 QQ** | `2929828762` | [点击跳转添加](https://qm.qq.com/q/KeKaFEOfqE) |
+| **🚀 飞书** | `user_r9RoV9tcVB` | [点击添加联系人](https://www-user.feishu.cn/invitation/page/add_contact/?token=d55ia924-0e39-4f0d-afe1-a88cf702b7e1&unique_id=0cbaAiJaYWkGziEKAnzYMA==) |
+| **🔨 钉钉** | `iu9_40gasz7ly` | 扫码或搜索添加 |
+
+> **注**：微信、QQ、钉钉的二维码图片已附在仓库 `assets/contact/` 目录下，欢迎扫码交流。
 
 有技术问题或合作意向，欢迎提 Issue 或直接联系。
