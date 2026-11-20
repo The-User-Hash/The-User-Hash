@@ -43,3 +43,20 @@
 > **注**：微信、QQ、钉钉的二维码图片已附在仓库目录，欢迎扫码交流。
 
 有技术问题或合作意向，欢迎提 Issue 和直接联系。
+
+---
+
+## 📥 文件下载说明
+
+> **⚠️ 网页版无法预览 PPT 和 PDF 内容，请全部下载之后查看。**
+>
+> GitHub 网页端只能在线显示代码、Markdown 和图片，PPT（.pptx）和 PDF 文件在页面上会提示
+> "Sorry about that, but we can't show files that are this big right now" 或
+> "Unable to render code block"——**这不是文件损坏，而是网页无法渲染，文件本身完整无损。**
+>
+> **下载方法：**
+> 1. 点击左侧文件列表中的目标文件
+> 2. 点击右上角的 **下载图标 ↓**（在 Raw 按钮右侧）
+> 3. 下载完成后用本地 Office / PDF 阅读器打开
+>
+> **建议优先下载 PDF 版本**（2.8 MB，手机可直接打开），PPT 原版为 22.9 MB，需下载后用 PowerPoint 或 WPS 打开。
