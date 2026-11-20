@@ -1,16 +1,36 @@
-## Hi there 👋
+# 技术提案 PPT
 
-<!--
-**The-User-Hash/The-User-Hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 本提案针对大模型推理场景下的显存成本问题，
+> 提出 KV Cache 分层管理方案。
+> 已同步提交给深度求索（DeepSeek）与米哈游评估。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 提案内容
+
+- **问题背景**：长上下文推理中 KV Cache 显存占用过高
+- **核心方案**：按访问频率分层，热数据留显存、冷数据下沉
+- **预期收益**：显存占用下降，单卡可承载并发数提升
+- **落地路径**：分三阶段推进，可先在推理服务侧灰度验证
+
+完整 PPT 见本仓库 `提案PPT/` 目录。
+
+---
+
+## 技术方向
+
+- **大模型应用**：推理成本优化、KV Cache 分层策略、上下文管理
+- **自动化开发**：Python 脚本、数据处理流水线、文件批量处理
+- **移动端**：APP 开发、端侧模型部署
+
+---
+
+## 联系我
+
+| 方式 | 说明 |
+|---|---|
+| 邮箱 | zengjia168_2026@outlook.com |
+| 备用邮箱 | zengjia168_2026@qq.com |
+| 微信 / QQ / 钉钉 | 二维码见 [联系我](联系我) 目录 |
+
+有技术问题或合作意向，欢迎提 Issue 或直接联系。
